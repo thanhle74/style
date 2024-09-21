@@ -1,6 +1,7 @@
 /**
  * Handles toggling the main navigation menu for small screens.
  */
+alert(123)
 jQuery( document ).ready( function( $ ) {
 	var $masthead = $( '#masthead' ),
 	    timeout = false;
